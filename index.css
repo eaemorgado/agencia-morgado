@@ -146,4 +146,22 @@ header img {
     margin-right: 30px;
 }
 
+#portfolio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#port {
+    background-color: #EAEAEA;
+    height: 200px;
+    width: 80%;
+    border-radius: 18px;
+    margin-top: 30px;
+
+  
+}
+
 }
